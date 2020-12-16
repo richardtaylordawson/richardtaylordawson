@@ -7,10 +7,6 @@
 
 ### About Me
 
-<a target="_blank" href="https://open.spotify.com/user/uq2mvxddsmw874ndbn9xkqnl0?si=7u71vkLVT6O-DM7LzYTGYA">
-  <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=uq2mvxddsmw874ndbn9xkqnl0&width=400&count=6"/>
-</a>
-
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=richardtaylordawson&show_icons=true&hide_border=true&bg_color=212121&text_color=dcdcdc" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardtaylordawson&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=212121&text_color=dcdcdc"/>
