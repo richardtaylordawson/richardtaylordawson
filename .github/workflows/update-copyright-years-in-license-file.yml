@@ -1,6 +1,6 @@
 name: Update Copyright Year(s) in License File
 
-on: "workflow_dispatch"
+on: workflow_dispatch
 
 jobs:
   update-license-file:
@@ -11,5 +11,5 @@ jobs:
         fetch-depth: 0
     - uses: FantasticFiasco/action-update-license-year@v2
       with:
-        branchName: "production"
-        token: ${{ secrets.TOKEN }}
+        assignees:  "richardtaylordawson"
+        token: ${{ secrets.TOKEN }
