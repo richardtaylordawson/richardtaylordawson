@@ -2,7 +2,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:richard.taylor.dawson@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-dawson-482927123/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rtdaws003/)
 [![Codewars Badge](https://img.shields.io/badge/-Codewars-ae4b35?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/richardtaylordawson)
 
 ### About Me
