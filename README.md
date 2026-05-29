@@ -8,11 +8,6 @@
 ### About Me
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=richardtaylordawson&show_icons=true&hide_border=true&bg_color=212121&text_color=dcdcdc" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardtaylordawson&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=212121&text_color=dcdcdc"/>
-</p>
-
-<p>
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="storybook" src="https://img.shields.io/badge/-Storyboook-ff3f79?style=flat-square&logo=storybook&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/-Jest-87244c?style=flat-square&logo=jest&logoColor=white" />
