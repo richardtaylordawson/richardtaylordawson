@@ -1,13 +1,13 @@
 <svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Taylor Dawson profile hero</title>
-  <desc id="desc">A dark animated branded hero image with the RTD logo and text for Taylor Dawson.</desc>
+  <title id="title">Animated RTD logo</title>
+  <desc id="desc">A dark animated branded hero image with a centered RTD logo.</desc>
   <defs>
-    <radialGradient id="pointerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(898 104) rotate(135) scale(520 430)">
+    <radialGradient id="pointerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 238) rotate(90) scale(520 650)">
       <stop stop-color="#C084FC" stop-opacity="0.34"/>
       <stop offset="0.42" stop-color="#2DD4BF" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#140C1C" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="logoGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(903 278) rotate(120) scale(230 180)">
+    <radialGradient id="logoGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 256) rotate(120) scale(250 190)">
       <stop stop-color="#B8F34A" stop-opacity="0.24"/>
       <stop offset="0.58" stop-color="#C084FC" stop-opacity="0.14"/>
       <stop offset="1" stop-color="#140C1C" stop-opacity="0"/>
@@ -16,6 +16,11 @@
       <stop stop-color="#FFFFFF" stop-opacity="0.22"/>
       <stop offset="0.5" stop-color="#C084FC" stop-opacity="0.36"/>
       <stop offset="1" stop-color="#2DD4BF" stop-opacity="0.26"/>
+    </linearGradient>
+    <linearGradient id="orbitStroke" x1="406" y1="110" x2="782" y2="413" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF" stop-opacity="0.05"/>
+      <stop offset="0.42" stop-color="#B8F34A" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0.14"/>
     </linearGradient>
     <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
       <path d="M72 0H0V72" stroke="#FFF7F0" stroke-opacity="0.08" stroke-width="1"/>
@@ -36,26 +41,41 @@
     <animateTransform attributeName="transform" type="translate" from="0 0" to="-72 -72" dur="18s" repeatCount="indefinite"/>
   </rect>
   <rect x="58" y="54" width="1084" height="412" rx="30" fill="#FFF7F0" fill-opacity="0.035" stroke="url(#panelStroke)" stroke-opacity="0.78" filter="url(#softShadow)">
-    <animate attributeName="stroke-opacity" values="0.58;0.9;0.58" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.5;0.86;0.5" dur="5.5s" repeatCount="indefinite"/>
   </rect>
   <g clip-path="url(#panelClip)">
-    <circle cx="1000" cy="102" r="256" fill="#C084FC" fill-opacity="0.08"/>
-    <circle cx="1086" cy="354" r="246" fill="#2DD4BF" fill-opacity="0.075"/>
-    <path d="M102 120H704" stroke="#FFF7F0" stroke-opacity="0.07"/>
-    <path d="M102 344H544" stroke="#FFF7F0" stroke-opacity="0.07"/>
+    <circle cx="502" cy="104" r="256" fill="#C084FC" fill-opacity="0.08"/>
+    <circle cx="724" cy="390" r="246" fill="#2DD4BF" fill-opacity="0.075"/>
+    <path d="M102 120H1098" stroke="#FFF7F0" stroke-opacity="0.07"/>
+    <path d="M102 344H1098" stroke="#FFF7F0" stroke-opacity="0.07"/>
   </g>
 
-  <g transform="translate(86 188)" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="800ms" begin="120ms" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="86 202;86 188" dur="800ms" begin="120ms" fill="freeze"/>
-    <text fill="#FFF7F0" font-family="Geist, Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="68" font-weight="700" letter-spacing="0">
-      <tspan x="0" y="70">Taylor Dawson.</tspan>
-    </text>
+  <g transform="translate(600 260)">
+    <ellipse cx="0" cy="148" rx="146" ry="28" fill="#000000" fill-opacity="0.22"/>
+    <g opacity="0.82">
+      <ellipse cx="0" cy="0" rx="252" ry="122" stroke="url(#orbitStroke)" stroke-width="1.4" stroke-dasharray="4 18">
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="16s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="0" cy="0" rx="198" ry="96" stroke="#FFF7F0" stroke-opacity="0.11" stroke-width="1" stroke-dasharray="2 16">
+        <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="22s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <circle cx="-216" cy="-48" r="5" fill="#2DD4BF" opacity="0.3">
+      <animate attributeName="opacity" values="0.28;1;0.28" dur="2.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 216 48" to="360 216 48" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="224" cy="42" r="5.5" fill="#B8F34A" opacity="0.28">
+      <animate attributeName="opacity" values="0.28;1;0.28" dur="2.8s" begin="350ms" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 -224 -42" to="360 -224 -42" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-108" cy="106" r="4" fill="#FFD166" opacity="0.28">
+      <animate attributeName="opacity" values="0.28;1;0.28" dur="2.8s" begin="700ms" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 108 -106" to="360 108 -106" dur="22s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
-  <g transform="translate(846 118)">
-    <animateTransform attributeName="transform" type="translate" values="846 118;846 108;846 118" dur="5s" repeatCount="indefinite"/>
-    <ellipse cx="116" cy="254" rx="116" ry="28" fill="#000000" fill-opacity="0.22"/>
+  <g transform="translate(484 144)">
+    <animateTransform attributeName="transform" type="translate" values="484 148;484 136;484 148" dur="5s" repeatCount="indefinite"/>
     <rect x="0" y="0" width="232" height="232" rx="30" fill="#C084FC" fill-opacity="0.1" stroke="#C084FC" stroke-opacity="0.42"/>
     <rect x="19" y="19" width="194" height="194" rx="22" fill="#140C1C" fill-opacity="0.58" stroke="#FFF7F0" stroke-opacity="0.08"/>
     <rect x="0" y="0" width="232" height="232" rx="30" fill="url(#logoGlow)"/>
@@ -68,13 +88,4 @@
       <rect x="198" y="364" width="68" height="36" rx="9" fill="#B8F34A"/>
     </svg>
   </g>
-  <circle cx="820" cy="146" r="4" fill="#2DD4BF" opacity="0.28">
-    <animate attributeName="opacity" values="0.28;1;0.28" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1092" cy="168" r="5" fill="#B8F34A" opacity="0.28">
-    <animate attributeName="opacity" values="0.28;1;0.28" dur="2.8s" begin="350ms" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="824" cy="356" r="3.5" fill="#FFD166" opacity="0.28">
-    <animate attributeName="opacity" values="0.28;1;0.28" dur="2.8s" begin="700ms" repeatCount="indefinite"/>
-  </circle>
 </svg>
