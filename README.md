@@ -36,7 +36,7 @@ Outside of work, you can usually find me with my wife and kids, playing golf, or
   <img alt="node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-f0dc50?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="accessibility" src="https://img.shields.io/badge/-Accessibility-b8f34a?style=flat-square&logoColor=140c1c" />
+  <img alt="accessibility" src="./assets/accessibility-badge.svg" />
   <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="styled components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
