@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Taylor Dawson." />
+  <img src="./assets/profile-hero.svg" alt="Animated RTD logo." />
 </p>
 
 ## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
