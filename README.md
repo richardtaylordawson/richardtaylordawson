@@ -23,13 +23,20 @@ Outside of work, you can usually find me with my wife and kids, playing golf, or
 
 <p>
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="storybook" src="https://img.shields.io/badge/-Storyboook-ff3f79?style=flat-square&logo=storybook&logoColor=white" />
+  <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="tailwind css" src="https://img.shields.io/badge/-Tailwind_CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="storybook" src="https://img.shields.io/badge/-Storybook-ff3f79?style=flat-square&logo=storybook&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/-Jest-87244c?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="playwright" src="https://img.shields.io/badge/-Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white" />
   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="netlify" src="https://img.shields.io/badge/-Netlify-3d97b4?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="graphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-f0dc50?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="accessibility" src="https://img.shields.io/badge/-Accessibility-b8f34a?style=flat-square&logo=accessibility&logoColor=140c1c" />
   <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="styled components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
